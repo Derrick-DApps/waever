@@ -18,6 +18,15 @@ const Index = () => {
   return (
     <>
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <p style={{textShadow: "none", margin: "auto", textAlign: "center"}}>Waever ensures that your legal rights to your home are safe with cutting edge digital assets and costody technology</p>
       <div style={{
         position: "absolute",
         top: "50%",

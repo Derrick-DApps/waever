@@ -10,7 +10,7 @@ const HouseTitles = () => {
   return (
     <>
     <Box style={{ textAlign: "center" }}>
-      <h1 style={{ textShadow: "none" }}>Deeds</h1>
+      <h1 style={{ textShadow: "none" }}>Your Deeds</h1>
       <div className="monopoly-card" style={{ textShadow: "none", margin: "auto" }}>
    <div className="monopoly-card_title red" style={{ textShadow: "none", margin: "auto" }}>
       123 ABC Street...
