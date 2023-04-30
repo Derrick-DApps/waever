@@ -1,2 +1,2 @@
 # get3
-project for Eth boston
+project for ETH Boston
