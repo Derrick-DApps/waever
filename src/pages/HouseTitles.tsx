@@ -11,12 +11,20 @@ const HouseTitles = () => {
     <>
     <Box style={{ textAlign: "center" }}>
       <h1 style={{ textShadow: "none" }}>Deeds</h1>
-      <Profile 
-        handle="stani"
-      />
-      <Profile 
-        handle="0xdhruvv"
-      />
+      <div className="monopoly-card" style={{ textShadow: "none", margin: "auto" }}>
+   <div className="monopoly-card_title red" style={{ textShadow: "none", margin: "auto" }}>
+      123 ABC Street...
+   </div>
+   <div className="monopoly-card_content" style={{ textShadow: "none" }}>
+      <div className="description">Owner: derrick.eth</div>
+      <div className="monopoly-money">Grantor: john.eth</div>
+   
+   </div>
+   <div className="monopoly-card_footer" style={{ textShadow: "none", margin: "auto" }}>
+      <div className="description">House Value:100.000.00 USDC</div>
+ 
+   </div>  
+</div>
       </Box>
     </>
 

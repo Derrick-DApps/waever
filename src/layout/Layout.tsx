@@ -52,7 +52,7 @@ const Layout = (properties: any) => {
       <AppBar position="static" style={{ backgroundColor: "#0066b2" }}>
         <Container maxWidth={false}>
           <Toolbar disableGutters>
-            <img src="" height="50" width="50" alt="" />
+            <img src="https://raw.githubusercontent.com/Derrick-DApps/waever/main/EthBoston%20Documents/quill-pen.png" height="50" width="50" alt="" />
             
             <Typography
               variant="h6"

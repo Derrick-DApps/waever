@@ -31,7 +31,7 @@ const Index = () => {
               <Button style={{
                 width: "25em",
                 height: "3em",
-                backgroundColor: "#ff5252",
+                backgroundColor: "blue",
                 borderColor: "black",
                 color: "white",
                 boxShadow: "5px 5px #333333"
@@ -46,13 +46,13 @@ const Index = () => {
               <Button style={{
                 width: "25em",
                 height: "3em",
-                backgroundColor: "#ff5252",
+                backgroundColor: "blue",
                 borderColor: "black",
                 color: "white",
                 boxShadow: "5px 5px #333333"
               }}
-                href="/play"
-                variant="outlined"><strong>Try It</strong></Button>
+                href="/titles"
+                variant="outlined"><strong>View Title Deeds</strong></Button>
             </Box>
           </>
         }
