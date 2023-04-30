@@ -26,7 +26,7 @@ const Index = () => {
       <br />
       <br />
       <br />
-      <p style={{textShadow: "none", margin: "auto", textAlign: "center"}}>Waever ensures that your legal rights to your home are safe with cutting edge digital assets and costody technology</p>
+      <p style={{textShadow: "none", margin: "auto", textAlign: "center"}}>Waever ensures that your legal rights to your home are safe with cutting edge digital assets and custody technology</p>
       <div style={{
         position: "absolute",
         top: "50%",
